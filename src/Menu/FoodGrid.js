@@ -23,7 +23,7 @@ export const Food = styled(Title)`
     filter: contrast(75%);
     border-radius: 7px;
     margin-top: 5px;
-    transition-property: box-shadow margin-top;
+    transition-property: box-shadow margin-top filter;
     box-shadow: 0px 0px 2px 0px grey;
     transition-duration: 0.1s;
     &:hover {
