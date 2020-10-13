@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React, {Components} from "react";
 import styled from "styled-components";
 import {pizzaRed} from "../Styles/colors";
 import {Title} from "../Styles/title";
